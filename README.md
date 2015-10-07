@@ -17,6 +17,14 @@ Motio has no dependencies, but there is an optional
 
 Works everywhere.
 
+# Bower Install #
+
+```
+#!shell
+
+$ bower install darsa-motio --save
+```
+
 ## Usage
 
 Sprite animation mode:
