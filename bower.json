@@ -1,0 +1,26 @@
+{
+  "name": "darsa-motio",
+  "version": "2.2.2",
+  "main": "dist/jquery.motio.min.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "build",
+    "speed",
+    "test",
+    "*.md"
+  ],
+  "keywords": [
+    "motio",
+    "html5",
+    "darsa"
+  ],
+  "authors": [
+    { "name": "Darsa", "homepage": "http://darsa.in/motio/" },
+    { "name": "Miller Augusto S. Martins", "email": "miller@ciandt.com", "homepage": "http://br.linkedin.com/pub/miller-augusto/2a/38b/832/" }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miamarti/motio.git"
+  }
+}
